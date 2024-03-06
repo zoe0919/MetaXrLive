@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/StarterSamples/Usage/CustomControllers.unity
+    guid: e0f49aa4174f98941b88699b5fecddc0
+  - enabled: 0
+    path: Assets/StarterSamples/Usage/CustomHands.unity
+    guid: a4f984fcee593d2418cc61f4a993d46d
+  - enabled: 0
+    path: Assets/StarterSamples/Usage/DebugUI.unity
+    guid: 34004346bd7dcbf4fbfd78d2f12e4451
+  - enabled: 0
+    path: Assets/StarterSamples/Usage/DistanceGrab.unity
+    guid: 24f58b3f0ca02d44eaec7f50bca538f2
+  - enabled: 0
+    path: Assets/StarterSamples/Usage/HandsInteractionTrainScene.unity
+    guid: a9c41884ef0c347628dfd8a4af4a022e
+  - enabled: 0
+    path: Assets/StarterSamples/Usage/Locomotion.unity
+    guid: 024cd9dcd49bd8f46a6bea03aa8a21bb
+  - enabled: 0
+    path: Assets/StarterSamples/Usage/OVROverlay.unity
+    guid: d31b44aac77e1684d861792b23d46a8b
+  - enabled: 0
+    path: Assets/StarterSamples/Usage/Passthrough.unity
+    guid: 58e5fc2486c774a4e88ac76261268d52
+  - enabled: 0
+    path: Assets/StarterSamples/Usage/StartScene.unity
+    guid: 071fba5195bd4b04eab8668985aa1683
+  - enabled: 0
+    path: Assets/StarterSamples/Usage/Stereo180Video.unity
+    guid: 11cf8fa7bf3deb04db11bd170c0b4338
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8c9ea96ac08fb1c4c94b6f2e28dca712, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a3494824bf667e1458483dba37126ac0, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f3a470c212964cd49b0bbfdd2f101922, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e77235b7b5dac9143af5d675fd597bf9, type: 2}
